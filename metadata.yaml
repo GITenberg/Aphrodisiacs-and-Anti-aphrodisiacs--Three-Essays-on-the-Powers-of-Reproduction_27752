@@ -1,0 +1,30 @@
+_repo: Aphrodisiacs-and-Anti-aphrodisiacs--Three-Essays-on-the-Powers-of-Reproduction_27752
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davenport, John
+    birthdate: 1789
+    deathdate: 1877
+    gutenberg_agent_id: '32886'
+    url: http://www.gutenberg.org/2009/agents/32886
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2009-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27752'
+  lccn: '21021907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex customs -- France -- History -- 17th century'
+- !lcsh 'Sex'
+- !lcc 'HQ'
+- !lcsh 'Phallicism'
+title: 'Aphrodisiacs and Anti-aphrodisiacs: Three Essays on the Powers of Reproduction'
+url: http://www.gutenberg.org/ebooks/27752
