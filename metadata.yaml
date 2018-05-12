@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32886'
     url: http://www.gutenberg.org/2009/agents/32886
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27752#Aphrodisiacs-and-Anti-aphrodisiacs--Three-Essays-on-the-Powers-of-Reproduction
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2009-01-09'
 gutenberg_type: Text
